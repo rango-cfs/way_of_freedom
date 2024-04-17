@@ -7,6 +7,11 @@ This repository contains a collection of free V2ray configuration files that you
 [V2ray-Configs](https://github.com/barry-far/V2ray-Configs)
 
 
+# IP_CF_Config
+
+[IP_CF_Config](https://t.me/IP_CF_Config)
+
+
 # FORWARDV2RAY
 
 [FORWARDV2RAY](https://t.me/forwardv2ray)
